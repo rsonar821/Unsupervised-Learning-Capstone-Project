@@ -48,3 +48,32 @@ The features of the dataset were as follows:
 * User-ID: Unique ID of the user
 * ISBN: Unique ID to identify a book
 * Book-Rating: Ratings of the book (In the range of 0-10)
+
+![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 align="center"> Feature Engineering </h2>
+
+Feature engineered the columns such as number of ratings and average ratings to get the count of the ratings received by every book and the average rating on each book.
+
+![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 align="center"> Exploratory Data Analysis </h2>
+
+* The author ‘Agatha Christie’ has written maximum number of books i.e., around 650, followed by William Shakespeare and Stephen King.
+* Maximum number of books were published in the year 2002 which were around 1380 followed by the years 2001 and 1999.
+* The average reading age of the user is around 20-40. The age at which the users read the maximum is about 28-30 years of age.
+* After excluding implicit ratings it can be seen that maximum number of books have received the ratings as 8 and followed by 10 and 7.
+
+![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 align="center"> Approaches Used </h2>
+* Popularity Based Recommendation
+* Collaborative Filtering Recommmendation (Memory Based Approach)
+
+![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 align="center"> Conclusion </h2>
+
+* The books ‘Harry Potter and the Chamber of Secrets (Book 2)’ and ‘Harry Potter and Sorcerer’s Stone’ can be declared as the best and the most popular books as these books have received highest number of ratings, which means a large number of people have read those books and also these books lie in the group of top 10 most popular books on the basis of average ratings.
+* The author ‘J.K. Rowling’ (writer of Harry Potter) can be termed as the most popular author as he has received the highest number of ratings, which means the author has reached a large number of audience and also has a good average rating.
+* Tested the model on top readers by leveraging interaction strength with the recommended items and achieved test recall@5 of 75% and recall@10 of 82%
