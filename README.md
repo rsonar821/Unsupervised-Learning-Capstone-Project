@@ -67,6 +67,7 @@ Feature engineered the columns such as number of ratings and average ratings to 
 ![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 align="center"> Approaches Used </h2>
+
 * Popularity Based Recommendation
 * Collaborative Filtering Recommmendation (Memory Based Approach)
 
