@@ -8,6 +8,8 @@
 
 ![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2 align="center"> Problem Statement </h2>
+
 In e-commerce companies (Amazon, Flipkart, Myntra etc.) and consumer internet companies (Spotify, YouTube, Uber etc.) today, contents available for users to explore are overwhelming because an average online website is about 70% more than a physical store in total number of users and items. Hence, the need to filter, prioritize and efficiently deliver relevant information using recommender systems becomes the need of the time.
 
 The Recommendation System belongs to the class of Information Retrieval, Data Mining and Machine Learning. Recommender systems recommend items to users such as books, movies, videos, electronic products and many other products in general. Recommender systems help the users to get personalized recommendations, helps users to make correct decisions in their online transactions, increase sales and redefine the users web browsing experience, retain the customers, enhance their shopping experience etc. Recommender system has the ability to predict whether a particular user would prefer an item or not based on the user's profile. Recommender systems are beneficial to both service providers and users. They reduce transaction costs of finding and selecting items in an online shopping environment.
